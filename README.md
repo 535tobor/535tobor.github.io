@@ -1,4 +1,4 @@
 # 535 Tobor Programming
 Tobor's Programming Informational Pages
 <br>
-This site is currently in progress.
+The goal of the Tobor Programming website is to clearly communicate the programming team's work each season.
